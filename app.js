@@ -31,7 +31,7 @@ if (path === `happy`){
 
     //
 
-} else if (path === `tragic`)
+ else if (path === `tragic`)
     console.log(`I like the way you think, ${name}!`);
        const dir = prompt("Do you want to go left or right?").toLowerCase();
     if (dir === 'left') {
